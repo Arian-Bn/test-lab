@@ -1,1 +1,1 @@
-"# Здесь будут важные заметки!" 
+"there will be new notes here!" 
